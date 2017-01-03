@@ -1,8 +1,5 @@
 # ArithmeticTrainer
 
-<a href="https://github.com/MaZaiPC"><img
-  src="https://avatars1.githubusercontent.com/u/12218875?v=3&s=460" alt="MaZaiPC"
-  width="80" height="80" align="right"></a>
 
 > Тренажер арифметики
 
