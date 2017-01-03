@@ -12,7 +12,7 @@
 
 **Скачать**
 
-Ссылка: download-link
+Ссылка: https://github.com/MaZaiPC/arithmetic-trainer-net/archive/master.zip
 
 
 ## Возможности
@@ -27,6 +27,8 @@
 
 Автор проекта ArithmeticTrainer [Андрей Иванченко](https://vk.com/id27951423).
 
-[download-link]: https://github.com/MaZaiPC/arithmetic-trainer-net/archive/master.zip
-[license-image]: https://img.shields.io/npm/l/normalize.css.svg?style=flat-square
+
 [changelog-image]: https://img.shields.io/badge/changelog-md-blue.svg?style=flat-square
+[changelog-url]: CHANGELOG.md
+[license-image]: https://img.shields.io/npm/l/normalize.css.svg?style=flat-square
+[license-url]: LICENSE.md
