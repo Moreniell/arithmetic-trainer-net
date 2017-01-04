@@ -2,7 +2,7 @@
 
 <a href="https://github.com/MaZaiPC/arithmetic-trainer-net"><img
   src="http://i.imgur.com/mr2ZyPh.png" alt="Repository Logo"
-  width="250" height="80" align="right"></a>
+  width="303" height="80" align="right"></a>
 
 > Тренажер арифметики
 
