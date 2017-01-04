@@ -1,8 +1,8 @@
 # ArithmeticTrainer
 
 <a href="https://github.com/MaZaiPC/arithmetic-trainer-net"><img
-  src="http://i.imgur.com/mr2ZyPh.png" alt="Repository Logo"
-  width="303" height="80" align="right"></a>
+  src="http://i.imgur.com/XaVPfqn.png" alt="Repository Logo"
+  width="80" height="80" align="right"></a>
 
 > Тренажер арифметики
 
