@@ -25,7 +25,7 @@
 Автор проекта ArithmeticTrainer [Андрей Иванченко](https://vk.com/id27951423).
 
 
-[changelog-image]: https://img.shields.io/badge/changelog-md-blue.svg?style=flat-square
+[changelog-image]: https://img.shields.io/badge/changelog-md-blue.svg?style=plastic
 [changelog-url]: CHANGELOG.md
-[license-image]: https://img.shields.io/npm/l/normalize.css.svg?style=flat-square
+[license-image]: https://img.shields.io/npm/l/normalize.css.svg?style=plastic
 [license-url]: LICENSE.md
