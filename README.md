@@ -10,9 +10,9 @@
 [![changelog][changelog-image]][changelog-url]
 
 
-**Скачать**
+**Скачать:**
 
-Ссылка: https://github.com/MaZaiPC/arithmetic-trainer-net/archive/master.zip
+**версия: 1.0.63** [ArithmeticTrainer #ed68819](https://github.com/MaZaiPC/arithmetic-trainer-net/releases/download/v1.0.63/release.zip)
 
 
 ## Возможности
