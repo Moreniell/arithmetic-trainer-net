@@ -7,7 +7,7 @@
     <ProjectGuid>{DFF0F207-E64F-466F-97B1-0EB823ED18F1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MaZaiPC.ArithmeticTrainer</RootNamespace>
+    <RootNamespace>Moreniell.ArithmeticTrainer</RootNamespace>
     <AssemblyName>ArithmeticTrainer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -93,7 +93,7 @@
       <DependentUpon>TrainingForm.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
-    <None Include="Properties\DataSources\MaZaiPC.ArithmeticTrainer.Properties.Settings.datasource" />
+    <None Include="Properties\DataSources\Moreniell.ArithmeticTrainer.Properties.Settings.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

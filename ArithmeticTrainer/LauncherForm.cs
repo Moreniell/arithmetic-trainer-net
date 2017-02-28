@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Windows.Forms;
-using MaZaiPC.ArithmeticTrainer.Properties;
+using Moreniell.ArithmeticTrainer.Properties;
 
-namespace MaZaiPC.ArithmeticTrainer
+namespace Moreniell.ArithmeticTrainer
 {
 	public partial class LauncherForm : Form
 	{

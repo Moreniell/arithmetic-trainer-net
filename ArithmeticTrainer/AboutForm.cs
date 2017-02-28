@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Reflection;
 using System.Windows.Forms;
 
-namespace MaZaiPC.ArithmeticTrainer
+namespace Moreniell.ArithmeticTrainer
 {
 	public partial class AboutForm : Form
 	{
@@ -32,7 +32,7 @@ namespace MaZaiPC.ArithmeticTrainer
 
 		private void buttonUpdate_Click(object sender, EventArgs e)
 		{
-			Process.Start("https://github.com/MaZaiPC/Junior-Code-CSharp");
+			Process.Start("https://github.com/Moreniell/Junior-Code-CSharp");
 		}
 	}
 }

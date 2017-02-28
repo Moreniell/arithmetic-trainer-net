@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace MaZaiPC.ArithmeticTrainer
+namespace Moreniell.ArithmeticTrainer
 {
 	internal class Program
 	{

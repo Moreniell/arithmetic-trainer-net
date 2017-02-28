@@ -1,6 +1,6 @@
 # ArithmeticTrainer
 
-<a href="https://github.com/MaZaiPC/arithmetic-trainer-net"><img
+<a href="https://github.com/Moreniell/arithmetic-trainer-net"><img
   src="http://i.imgur.com/zHSlINX.png" alt="Repository Type"
   width="80" height="80" align="right"></a>
 
@@ -12,7 +12,7 @@
 
 **Скачать:**
 
-**версия: 1.0.63** [ArithmeticTrainer #ed68819](https://github.com/MaZaiPC/arithmetic-trainer-net/releases/download/v1.0.63/release.zip)
+**версия: 1.0.63** [ArithmeticTrainer #ed68819](https://github.com/Moreniell/arithmetic-trainer-net/releases/download/v1.0.63/release.zip)
 
 
 ## Возможности

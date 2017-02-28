@@ -5,10 +5,10 @@ using System.Linq;
 using System.Media;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using MaZaiPC.ArithmeticTrainer.Properties;
+using Moreniell.ArithmeticTrainer.Properties;
 using Timer = System.Windows.Forms.Timer;
 
-namespace MaZaiPC.ArithmeticTrainer
+namespace Moreniell.ArithmeticTrainer
 {
 	public partial class TrainingForm : Form
 	{

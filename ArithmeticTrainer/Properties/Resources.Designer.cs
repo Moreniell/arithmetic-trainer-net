@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MaZaiPC.ArithmeticTrainer.Properties {
+namespace Moreniell.ArithmeticTrainer.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace MaZaiPC.ArithmeticTrainer.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("MaZaiPC.ArithmeticTrainer.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Moreniell.ArithmeticTrainer.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

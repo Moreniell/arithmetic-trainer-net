@@ -1,4 +1,4 @@
-﻿namespace MaZaiPC.ArithmeticTrainer
+﻿namespace Moreniell.ArithmeticTrainer
 {
 	partial class AboutForm
 	{
@@ -122,7 +122,7 @@
 			// 
 			// pictureBox1
 			// 
-			this.pictureBox1.Image = global::MaZaiPC.ArithmeticTrainer.Properties.Resources.logo;
+			this.pictureBox1.Image = global::Moreniell.ArithmeticTrainer.Properties.Resources.logo;
 			this.pictureBox1.Location = new System.Drawing.Point(16, 16);
 			this.pictureBox1.Name = "pictureBox1";
 			this.pictureBox1.Size = new System.Drawing.Size(48, 50);

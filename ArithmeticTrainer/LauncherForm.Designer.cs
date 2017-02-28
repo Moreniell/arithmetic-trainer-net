@@ -1,7 +1,7 @@
 ﻿using System.Windows.Forms;
-using MaZaiPC.ArithmeticTrainer.Properties;
+using Moreniell.ArithmeticTrainer.Properties;
 
-namespace MaZaiPC.ArithmeticTrainer
+namespace Moreniell.ArithmeticTrainer
 {
 	partial class LauncherForm
 	{
@@ -76,7 +76,7 @@ namespace MaZaiPC.ArithmeticTrainer
 			this.checkBoxSum.AutoSize = true;
 			this.checkBoxSum.Checked = true;
 			this.checkBoxSum.CheckState = System.Windows.Forms.CheckState.Checked;
-			this.checkBoxSum.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::MaZaiPC.ArithmeticTrainer.Properties.Settings.Default, "Sum", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
+			this.checkBoxSum.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::Moreniell.ArithmeticTrainer.Properties.Settings.Default, "Sum", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
 			this.checkBoxSum.Location = new System.Drawing.Point(40, 120);
 			this.checkBoxSum.Name = "checkBoxSum";
 			this.checkBoxSum.Size = new System.Drawing.Size(32, 17);
@@ -88,7 +88,7 @@ namespace MaZaiPC.ArithmeticTrainer
 			// checkBoxSub
 			// 
 			this.checkBoxSub.AutoSize = true;
-			this.checkBoxSub.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::MaZaiPC.ArithmeticTrainer.Properties.Settings.Default, "Sub", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
+			this.checkBoxSub.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::Moreniell.ArithmeticTrainer.Properties.Settings.Default, "Sub", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
 			this.checkBoxSub.Location = new System.Drawing.Point(80, 120);
 			this.checkBoxSub.Name = "checkBoxSub";
 			this.checkBoxSub.Size = new System.Drawing.Size(29, 17);
@@ -100,7 +100,7 @@ namespace MaZaiPC.ArithmeticTrainer
 			// checkBoxMul
 			// 
 			this.checkBoxMul.AutoSize = true;
-			this.checkBoxMul.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::MaZaiPC.ArithmeticTrainer.Properties.Settings.Default, "Mul", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
+			this.checkBoxMul.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::Moreniell.ArithmeticTrainer.Properties.Settings.Default, "Mul", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
 			this.checkBoxMul.Location = new System.Drawing.Point(120, 120);
 			this.checkBoxMul.Name = "checkBoxMul";
 			this.checkBoxMul.Size = new System.Drawing.Size(32, 17);
@@ -112,7 +112,7 @@ namespace MaZaiPC.ArithmeticTrainer
 			// checkBoxDiv
 			// 
 			this.checkBoxDiv.AutoSize = true;
-			this.checkBoxDiv.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::MaZaiPC.ArithmeticTrainer.Properties.Settings.Default, "Div", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
+			this.checkBoxDiv.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::Moreniell.ArithmeticTrainer.Properties.Settings.Default, "Div", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
 			this.checkBoxDiv.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
 			this.checkBoxDiv.Location = new System.Drawing.Point(160, 120);
 			this.checkBoxDiv.Name = "checkBoxDiv";
@@ -127,7 +127,7 @@ namespace MaZaiPC.ArithmeticTrainer
 			this.checkBoxSingleDigit.AutoSize = true;
 			this.checkBoxSingleDigit.Checked = true;
 			this.checkBoxSingleDigit.CheckState = System.Windows.Forms.CheckState.Checked;
-			this.checkBoxSingleDigit.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::MaZaiPC.ArithmeticTrainer.Properties.Settings.Default, "SingleDigit", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
+			this.checkBoxSingleDigit.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::Moreniell.ArithmeticTrainer.Properties.Settings.Default, "SingleDigit", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
 			this.checkBoxSingleDigit.Location = new System.Drawing.Point(40, 176);
 			this.checkBoxSingleDigit.Name = "checkBoxSingleDigit";
 			this.checkBoxSingleDigit.Size = new System.Drawing.Size(32, 17);
@@ -138,7 +138,7 @@ namespace MaZaiPC.ArithmeticTrainer
 			// checkBoxTwoDigit
 			// 
 			this.checkBoxTwoDigit.AutoSize = true;
-			this.checkBoxTwoDigit.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::MaZaiPC.ArithmeticTrainer.Properties.Settings.Default, "TwoDigit", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
+			this.checkBoxTwoDigit.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::Moreniell.ArithmeticTrainer.Properties.Settings.Default, "TwoDigit", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
 			this.checkBoxTwoDigit.Location = new System.Drawing.Point(80, 176);
 			this.checkBoxTwoDigit.Name = "checkBoxTwoDigit";
 			this.checkBoxTwoDigit.Size = new System.Drawing.Size(32, 17);
@@ -149,7 +149,7 @@ namespace MaZaiPC.ArithmeticTrainer
 			// checkBoxThreeDigit
 			// 
 			this.checkBoxThreeDigit.AutoSize = true;
-			this.checkBoxThreeDigit.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::MaZaiPC.ArithmeticTrainer.Properties.Settings.Default, "ThreeDigit", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
+			this.checkBoxThreeDigit.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::Moreniell.ArithmeticTrainer.Properties.Settings.Default, "ThreeDigit", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
 			this.checkBoxThreeDigit.Location = new System.Drawing.Point(120, 176);
 			this.checkBoxThreeDigit.Name = "checkBoxThreeDigit";
 			this.checkBoxThreeDigit.Size = new System.Drawing.Size(32, 17);
@@ -160,7 +160,7 @@ namespace MaZaiPC.ArithmeticTrainer
 			// checkBoxFourDigit
 			// 
 			this.checkBoxFourDigit.AutoSize = true;
-			this.checkBoxFourDigit.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::MaZaiPC.ArithmeticTrainer.Properties.Settings.Default, "FourDigit", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
+			this.checkBoxFourDigit.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::Moreniell.ArithmeticTrainer.Properties.Settings.Default, "FourDigit", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
 			this.checkBoxFourDigit.Location = new System.Drawing.Point(160, 176);
 			this.checkBoxFourDigit.Name = "checkBoxFourDigit";
 			this.checkBoxFourDigit.Size = new System.Drawing.Size(32, 17);
@@ -171,7 +171,7 @@ namespace MaZaiPC.ArithmeticTrainer
 			// checkBoxFiveDigit
 			// 
 			this.checkBoxFiveDigit.AutoSize = true;
-			this.checkBoxFiveDigit.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::MaZaiPC.ArithmeticTrainer.Properties.Settings.Default, "FiveDigit", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
+			this.checkBoxFiveDigit.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::Moreniell.ArithmeticTrainer.Properties.Settings.Default, "FiveDigit", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
 			this.checkBoxFiveDigit.Location = new System.Drawing.Point(200, 176);
 			this.checkBoxFiveDigit.Name = "checkBoxFiveDigit";
 			this.checkBoxFiveDigit.Size = new System.Drawing.Size(32, 17);
@@ -200,7 +200,7 @@ namespace MaZaiPC.ArithmeticTrainer
 			// checkBoxPace
 			// 
 			this.checkBoxPace.AutoSize = true;
-			this.checkBoxPace.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::MaZaiPC.ArithmeticTrainer.Properties.Settings.Default, "Pace", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
+			this.checkBoxPace.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::Moreniell.ArithmeticTrainer.Properties.Settings.Default, "Pace", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
 			this.checkBoxPace.Location = new System.Drawing.Point(40, 208);
 			this.checkBoxPace.Name = "checkBoxPace";
 			this.checkBoxPace.Size = new System.Drawing.Size(81, 17);
@@ -210,7 +210,7 @@ namespace MaZaiPC.ArithmeticTrainer
 			// 
 			// DurationOfShow
 			// 
-			this.DurationOfShow.DataBindings.Add(new System.Windows.Forms.Binding("Value", global::MaZaiPC.ArithmeticTrainer.Properties.Settings.Default, "DurationOfShow", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
+			this.DurationOfShow.DataBindings.Add(new System.Windows.Forms.Binding("Value", global::Moreniell.ArithmeticTrainer.Properties.Settings.Default, "DurationOfShow", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
 			this.DurationOfShow.DataBindings.Add(new System.Windows.Forms.Binding("Enabled", this.checkBoxPace, "Checked", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
 			this.DurationOfShow.DecimalPlaces = 1;
 			this.DurationOfShow.Enabled = false;
@@ -318,7 +318,7 @@ namespace MaZaiPC.ArithmeticTrainer
 			// 
 			// NumRepetitions
 			// 
-			this.NumRepetitions.DataBindings.Add(new System.Windows.Forms.Binding("Value", global::MaZaiPC.ArithmeticTrainer.Properties.Settings.Default, "NumRepetitions", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
+			this.NumRepetitions.DataBindings.Add(new System.Windows.Forms.Binding("Value", global::Moreniell.ArithmeticTrainer.Properties.Settings.Default, "NumRepetitions", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
 			this.NumRepetitions.Location = new System.Drawing.Point(216, 269);
 			this.NumRepetitions.Maximum = new decimal(new int[] {
             500,

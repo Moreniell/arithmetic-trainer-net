@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MaZaiPC.ArithmeticTrainer
+namespace Moreniell.ArithmeticTrainer
 {
 	public class Example
 	{

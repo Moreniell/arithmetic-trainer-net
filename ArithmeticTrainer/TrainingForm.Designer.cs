@@ -1,4 +1,4 @@
-﻿namespace MaZaiPC.ArithmeticTrainer
+﻿namespace Moreniell.ArithmeticTrainer
 {
 	partial class TrainingForm
 	{
